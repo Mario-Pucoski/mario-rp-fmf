@@ -1,17 +1,12 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[slovene]{babel}
-
 \usepackage{graphicx}
-
 \usepackage{amsmath}
 \usepackage{amssymb}
 \usepackage{mathtools}
-
 \usepackage{qtree}
-
 \usepackage{hyperref}
-
 \usepackage{color}
 \definecolor{red}{rgb}{1,0.4,0.4}
 \definecolor{green}{rgb}{0.4,0.75,0.4}
@@ -22,11 +17,9 @@
 \setbeamertemplate{navigation symbols}{}
 \usetheme{metropolis}
 
-% map defaulf block to oldblock
 \let\oldblock\block
 \let\endoldblock\endblock
 
-% change block by adding smallskip
 \renewenvironment{block}[1]
     {\begin{oldblock}{#1}
         \smallskip
@@ -35,11 +28,9 @@
     \end{oldblock}
     }
 
-% map defaulf alertblock to oldalertblock
-\let\oldalertblock\alertblock
+let\oldalertblock\alertblock
 \let\endoldalertblock\endalertblock
 
-% change block by adding smallskip
 \renewenvironment{alertblock}[1]
     {\begin{oldalertblock}{#1}
         \smallskip
@@ -48,11 +39,10 @@
     \end{oldalertblock}
     }
 
-% map defaulf exampleblock to oldexampleblock
+
 \let\oldexampleblock\exampleblock
 \let\endoldexampleblock\endexampleblock
 
-% change block by adding smallskip
 \renewenvironment{exampleblock}[1]
     {\begin{oldexampleblock}{#1}
         \smallskip
