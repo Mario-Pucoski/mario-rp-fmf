@@ -377,12 +377,6 @@ INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epsto
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\prosojnice.out
-INPUT .\prosojnice.out
-INPUT prosojnice.out
-INPUT prosojnice.out
-INPUT .\prosojnice.out
-INPUT .\prosojnice.out
 OUTPUT prosojnice.out
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\tex\latex\translator\translator-basic-dictionary-English.dict
@@ -414,10 +408,6 @@ INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss12
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsi1200.tfm
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecss0500.tfm
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\prosojnice.toc
-INPUT .\prosojnice.toc
-INPUT prosojnice.toc
-INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1200.tfm
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss8.tfm
@@ -453,9 +443,11 @@ INPUT .\prosojnice\2-paket-beamer.tex
 INPUT .\prosojnice\2-paket-beamer.tex
 INPUT .\prosojnice\2-paket-beamer.tex
 INPUT prosojnice\2-paket-beamer.tex
+INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsx1095.tfm
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecsi1095.tfm
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcss1095.tfm
+INPUT prosojnice\2-paket-beamer.tex
 INPUT prosojnice\2-paket-beamer.tex
 INPUT .\prosojnice\3-odkrivanje-v-okolju-align.tex
 INPUT .\prosojnice\3-odkrivanje-v-okolju-align.tex
@@ -532,8 +524,6 @@ INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ec
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1095.pk
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
-INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1200.pk
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss0800.pk
@@ -546,6 +536,8 @@ INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ec
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1440.pk
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk
 INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk
+INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
+INPUT C:\Users\MarioP\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecss1095.pk
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\MarioP\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
